@@ -1,3 +1,6 @@
+## 1.3.1
+* Update Geode requirements to 4.7.0
+
 ## 1.3.0
 * iOS support
 * Code cleanup
